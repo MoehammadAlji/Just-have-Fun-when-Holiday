@@ -1,0 +1,30 @@
+NOMOR 1.
+type data adalah jenis data yang terdapat di bahasa programming, Type data digunakan untuk membedakan huruf dan angka dalam programming.
+Typedata dibagi menjadi 4:
+    a. String(ciri khasnya adalah selalu berada didalam tanda petik)
+    b. integer(berbeda dengan string, integer dibuat khusus untuk angka dan sama sekali tidak memakai tanda petik)
+    c. boolean(didalam typedata ini hanya terdapat 2 isi, yaitu True atau False)
+    d. array(typedata ini adalah typedata yang bisa memuat 3 typedata sebelumnya, dan juga typedata ini memiliki ciri khas tanda kurung berbentuk kotak[])
+    e.float(typedata ini adalah typedata bilangan yang memiliki tanda koma (,))
+
+
+NOMOR 2.
+    a.maksud dari operator (==) adalah, bahwa kedua komponen yang dibandingkan akan mengeluarkan typedata boolean (True) bila value-nya sama, tidak peduli apa typedata yang digunakan, bila Value tersebut sama.... Maka itu akan bersifat True(Benar)
+    b.maksud dari operator (!=) adalah kebalikan dari (==), operasi ini akan mengeluarkan nilai True hanya jika kedua value yang dibandingkan TIDAK SAMA, tidak peduli typedata apa yang digunakan, bila kedua komponen itu tidak sama, maka akan bernilai True
+    c.maksud dari operator (===) hampir sama dengan (==), namun didalam operasi (===) juga memeriksa kesamaan dari typedata yang digunakan, bila value dan typedata yang digunakan sama.... maka akan mengeluarkan nilai True
+    d.maksud dari operator (||) adalah untuk memberi opsi kepada kedua komponen yang dibandingkan, bila salahsatu dari kedua komponen itu bersifat True, maka operator ini akan mengeluarkan nilai True
+    e.maksud dari operator (&&) berbeda terbalik dari operator (||), operator ini akan mengeluarkan nilai True jika kedua komponen yang dibandingkan bersifat True, jika tidak... maka Operator ini akan mengeluarkan Nilai False
+
+
+NOMOR 3. 
+     Notasi kalimat deskriptif adalah langkah-langkah/cara pemecahan untuk memecahkan suatu masalah atau untuk melakukan suatu aktifitas (bisa dilihat di notasi/deskriptif.txt)
+    
+
+
+NOMOR 4.
+     Notasi FlowChart adalah langkah-langkah/cara pemecahan berbentuk simbol-simbol yang memiliki makna tersendiri dan memiliki fungsi untuk memecahkan suatu masalah atau untuk melakukan suatu aktifitas (bisa dilihat di notasi/flowChart.txt)
+    
+
+
+NOMOR 5.
+     Notasi PSEUDOCODE adalah langkah-langkah/cara pemecahan berbentuk code program bercabang dan memiliki fungsi untuk memecahkan suatu masalah atau untuk melakukan suatu aktifitas (bisa dilihat di notasi/pseudocode.txt)

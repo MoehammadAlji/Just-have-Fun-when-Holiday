@@ -1,0 +1,30 @@
+1. ketua(mengelola semua hal yang di yayasan),
+   wakil(mengelola semua hal yang di yayasan menggantikan ketua bila tidak ada ketua), 
+   mentor IT(memberi materi IT kepada santri-santri)
+   Ustadz(memberi pengajaran agamis untuk santri-santri)
+
+
+2. operating system adalah sistemasi atau cara untuk melakukan operasi matematika dalam proram, contohnya ada di babphp.php
+3. command line adalah bar untuk memberikan perintah yang akan dikerjakan oleh komputer, sedangkan Graphical User Interface adalah tampilan grafik untuk pengguna komputer tersebut
+4. cara kerja internet adalah sebagai jembatan penghubung antara perangkat satu dengan yang lain, internet juga bisa berfungsi sebagai alat tukar informasi yang sangat besar pengaruhnya di dunia maya
+5.  hardskill yang harus dimiliki programming adalah:
+        a.penguasaan di bahasa programming tertentu
+        b.pemahaman tentang Linux dan hal-hal yang bekaitan dengan pemprograman
+    SoftSkill yang harus dimiliki programming adalah:
+        a.problemsolver
+        b.ingatan memadai
+        c.mau bekerja keras
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
